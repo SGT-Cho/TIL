@@ -4,6 +4,8 @@
 - [08AUG2024_TIL](TIL_files/08AUG2024_TIL.md)
 - [09AUG2024_TIL](TIL_files/09AUG2024_TIL.md)
 - [10AUG2024_TIL](TIL_files/10AUG2024_TIL.md)
+- [12AUG2024_TIL](TIL_files/12AUG2024_TIL.md)
+
 
 
 ## 소개
@@ -11,4 +13,4 @@
 ## TIL 작성 규칙
 - 매일 최소 하나의 항목을 추가합니다.
 - 간단하고 명확하게 작성합니다.
-- 코드 예제나 그림 등을 포함하여 이해를 돕습니다.
+- 코드 예제나 그림 등을 포함하여 이해를 돕습니다.   
